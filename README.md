@@ -1,4 +1,4 @@
-# Banking ChatBot with Facebook Messenger 
+# Amazing and Simple Banking ChatBot with Facebook Messenger 
 
 ## Overview
 This repo demonstrates how you can easily build a ChatBot that interacts with Facebook Messenger
